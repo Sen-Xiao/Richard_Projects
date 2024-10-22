@@ -10,7 +10,7 @@ This project aims to assess the value of the BC Government's property ownership 
 The project involves reading raw sales data, cleaning and transforming it, and generating comprehensive reports for decision-making. The focus is on building efficient data pipelines, ensuring data integrity, and extracting meaningful insights. This project is designed for scalability and modularity, making it easy to adapt to different types of government or commercial datasets.
 
 
-***Analysis of Trump's Impact on 2020 US Election ***
+***Analysis of Trump's Impact on 2020 US Election***
 
 This project, completed as part of a data analysis course, focuses on evaluating Donald Trump's impact on the election result as a candidate. The analysis leverages data science techniques to explore trends, sentiments, and other key metrics relevant to Trump’s campaign performance, public perception, or electoral data.
 
